@@ -2,12 +2,12 @@
 
 Basic workout timer application for Android.
 
-How to install:
-    -Install WorkoutTimer.apk on Android device
+How to install:  
+    -Install WorkoutTimer.apk on Android device  
 
-How to use:
-    -Create a new timer by pressing the + button at the bottom of the screen
-    -Delete existing timers by longpressing them
+How to use:  
+    -Create a new timer by pressing the + button at the bottom of the screen  
+    -Delete existing timers by longpressing them  
 
 Screenshots:
 ![alt text](https://i.imgur.com/snPyQZP.jpg)
